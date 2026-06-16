@@ -1,0 +1,6 @@
+file '/home/sal/stracker-video/media/videos/script/1080p60/Scene1_Hook.mp4'
+file '/home/sal/stracker-video/media/videos/script/1080p60/Scene2_Logo.mp4'
+file '/home/sal/stracker-video/media/videos/script/1080p60/Scene3_Dashboard.mp4'
+file '/home/sal/stracker-video/media/videos/script/1080p60/Scene4_Pipeline.mp4'
+file '/home/sal/stracker-video/media/videos/script/1080p60/Scene5_Portal.mp4'
+file '/home/sal/stracker-video/media/videos/script/1080p60/Scene6_CTA.mp4'
